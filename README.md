@@ -1,0 +1,2 @@
+# Architect_Gabriella_Android
+目标：可用性可移植性很高的安卓App
